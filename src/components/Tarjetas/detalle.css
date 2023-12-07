@@ -1,0 +1,35 @@
+.contenedordetalle{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    margin: 50px;
+    padding: 50px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+.contenedorimg{
+    width: 350px;
+    
+}
+
+.img{
+    min-width: 300px;
+    width: 100%; 
+    border-radius:15px;
+}
+
+.contenedortitulo{
+    height: 100%;
+    padding: 40px;
+    display: flex;
+    flex-direction: column
+}
+
+
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}

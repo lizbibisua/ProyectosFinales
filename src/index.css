@@ -1,0 +1,7 @@
+#root {
+    padding: 0px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color:rgb(61, 54, 54);
+  }

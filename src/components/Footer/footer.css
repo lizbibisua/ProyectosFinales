@@ -1,0 +1,20 @@
+.pie{
+    display: flex;
+    padding: 10px 20px;
+    box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #bebebe;
+    justify-content: space-between;
+}
+
+.desarrollo{
+    display: flex;
+}
+
+.iconos {
+    display: flex;
+    gap: 15px;
+  }
+
+  .icono {
+    width: 30px;
+    height: 30px;
+  }
